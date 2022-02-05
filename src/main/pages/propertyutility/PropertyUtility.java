@@ -9,7 +9,7 @@ public class PropertyUtility extends Baselibrary
 
 
 {
-	static String path ="C:\\Users\\sd47860\\eclipse-workspace\\18october_Framework\\Testdata.properties";
+	static String path ="C:\\Users\\dubey\\OneDrive\\Documents\\GitHub\\18october_framework\\Testdata.properties";
 	
 	
 	public static String getreadproperty(String key)

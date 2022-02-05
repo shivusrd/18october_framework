@@ -33,7 +33,7 @@ public class Testingbaba_launch_page extends Baselibrary
 	{
 		String title = driver.getTitle();
 		System.out.println(title);
-		ScreenshotUtility.getscreenshot("passed", "gettitle");
+		//ScreenshotUtility.getscreenshot("passed", "gettitle");
 	}
 	
 	public void closebtn()

@@ -30,7 +30,7 @@ public class Baselibrary
 	
 	public void Teardown()
 	{
-		//driver.quit();
+		driver.quit();
 	}
 	
 	
