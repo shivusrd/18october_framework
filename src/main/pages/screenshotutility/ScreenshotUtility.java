@@ -1,7 +1,6 @@
 package screenshotutility;
 
 import java.io.File;
-
 import org.apache.commons.io.FileUtils;
 import org.apache.poi.examples.util.TempFileUtils;
 import org.openqa.selenium.OutputType;
